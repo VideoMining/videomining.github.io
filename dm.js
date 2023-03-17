@@ -3,6 +3,6 @@
       "Channel":"x2qsw7e"
    },
    {
-      "Channel":"xx2"
+      "Channel":"x2rnt6e"
    }
 ]
